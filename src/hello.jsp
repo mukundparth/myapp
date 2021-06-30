@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Sample Application JSP Page</title>
+<title>Sample Application JSP Page (Green Version)</title>
 </head>
 <body bgcolor=white>
 
@@ -17,7 +17,7 @@ application.
 </tr>
 </table>
 
-<%= new String("Hello!") %>
+<%= new String("Hello Green!") %>
 
 </body>
 </html>
